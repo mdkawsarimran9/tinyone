@@ -1,0 +1,229 @@
+@media( max-width:575.98px){
+    body{
+        padding-top:98px;
+    }
+    header{
+        padding:12px 0;
+    }
+    .menu ul li a{
+        font-weight: 400;
+        font-size: 18px;
+        text-align: end;
+        line-height: 30px;
+        margin:0!important;
+    }
+    .slider{
+        padding-bottom:45px;
+    }
+    .s_indi{
+        margin-bottom:-40px;
+    }
+    .s_indi [data-bs-target]{
+        width:8px;
+        height:8px;
+    }
+    /* s_text start  */
+    .s_text{
+        margin-top:20px;
+    }
+    .s_text h1{
+        font-size: 25px;
+        font-weight: 700;
+    }
+    .s_text h2{
+        margin:15px 0;
+        font-size: 17px;
+    }
+    .s_text p{
+        font-size:14px;
+        margin-bottom:20px;
+    }
+    .s_icon ul{
+        display: flex;
+    }
+    .s_icon ul li i{
+        margin:0 15px 20px 0;
+        font-size: 30px;
+        transition:.3s;
+    }
+    /* s_text end  */
+    /* feature start  */
+    .feature {
+        padding: 50px 0 70px;
+    }
+    .feature h2 {
+        margin-bottom: 13px;
+        font-size: 25px;
+    }
+    .feature p {
+        margin-bottom: 0;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+    }
+    .s_item{
+        margin-top:30px;
+    }
+    .f_icon i{
+        margin-bottom: 10px;
+        font-size: 35px;
+    }
+    .f_text h3{
+        margin-bottom: 5px;
+        font-size: 20px;
+        text-align: center;
+        font-weight: 400;
+    }
+    .f_text p{
+        padding:0 31px;
+        font-size: 16px;
+        text-align: center;
+    }
+    .c_form{
+        margin:35px 0 40px;
+    }
+    .s_input{
+        padding:8px 16px;
+    }
+    .s_btn{
+        padding:8px 16px;
+    }
+    /* feature end  */
+    /* contact start  */
+    .contact {
+        padding: 50px 0 70px;
+    }
+    .c_title h2{
+        margin-bottom: 13px;
+        font-size: 25px;
+    }
+    .c_title p {
+        font-size: 16px;
+    }
+    .c_icon i{
+        font-size: 35px;
+    }
+    /* contact end  */
+    /* footer start  */
+    .address address{
+        text-align: center;
+    }
+    .links ul{
+        margin-top:10px;
+        text-align: center;
+    }
+    /* footer end  */
+}
+@media (min-width: 576px) and (max-width:776.98px) { 
+    body{
+        padding-top:98px;
+    }
+    header{
+        padding:12px 0;
+    }
+    .menu ul li a{
+        text-align: end;
+        line-height: 35px;
+        margin:0!important;
+    }
+    /* feature start  */
+    .feature {
+        padding: 50px 0 70px;
+    }
+    .feature h2 {
+        margin-bottom: 13px;
+        font-size: 30px;
+    }
+    .feature p {
+        margin-bottom: 0;
+        font-size: 17px;
+        font-weight: 400;
+        color: #313841;
+        line-height: 24px;
+    }
+    .s_item{
+        margin-top:30px;
+    }
+    .f_icon i{
+        font-size: 35px;
+    }
+    .f_text h3{
+        margin-bottom:7px;
+        font-size: 20px;
+    }
+    .c_form{
+        margin:35px 0 40px;
+    }
+    .s_input{
+        padding:8px 16px;
+    }
+    .s_btn{
+        padding:8px 16px;
+    }
+    /* feature end  */
+    /* contact start  */
+    .contact {
+        padding: 50px 0 70px;
+    }
+    .c_title h2{
+        font-size: 30px;
+    }
+    .c_title p {
+        font-size: 17px;
+    }
+    .c_icon i{
+        font-size: 40px;
+    }
+    /* contact end  */
+    /* footer start  */
+    .address address{
+        text-align: center;
+    }
+    .links ul{
+        margin-top:10px;
+        text-align: center;
+    }
+    /* footer end  */
+}
+
+@media (min-width: 768px) and (max-width:991.98px) { 
+    .menu ul li a{
+        text-align: end;
+        line-height: 35px;
+        margin:0 !important;
+    }
+    /* feature start  */
+    .feature {
+        padding: 80px 0 100px;
+    }
+    .feature p {
+        font-size: 18px;
+    }
+    .s_item{
+        margin-top:50px;
+    }
+    .f_icon i{
+        font-size: 50px;
+        color:#010101;
+    }
+    .f_text h3{
+        margin-bottom:10px;
+        font-size: 22px;
+        color:#010101;
+        font-weight: 400;
+    }
+    .f_text p{
+        font-size: 16px;
+        font-weight: 400;
+        color:#898989;
+    }
+    /* feature end */
+    /* contact start  */
+    .contact {
+        padding: 70px 0 110px;
+    }
+    .c_title p {
+        font-size: 18px;
+    }
+    /* contact end  */
+}
